@@ -1,8 +1,8 @@
 {
-  "name": "ionic-hello-world",
-  "version": "0.0.0",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "draweb adminer",
+  "version": "0.0.1",
+  "author": "draweb",
+  "homepage": "http://draweb.cloud",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
